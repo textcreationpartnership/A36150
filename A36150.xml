@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dissenters case about the five hundred pounds forfeiture upon such as accepted employments under the late King without being qualified, modestly enquired into.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36150</idno>
+            <idno type="STC">Wing D1685</idno>
+            <idno type="STC">ESTC R27861</idno>
+            <idno type="EEBO-CITATION">10178661</idno>
+            <idno type="OCLC">ocm 10178661</idno>
+            <idno type="VID">44705</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36150)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44705)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1381:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dissenters case about the five hundred pounds forfeiture upon such as accepted employments under the late King without being qualified, modestly enquired into.</title>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H.C. and sold by R. Baldwine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Humbly recommended to the consideration of the honorable House of Commons."</note>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44705:1"/>
+            <pb facs="tcp:44705:1" rendition="simple:additions"/>
+            <p>THE DISSENTERS CASE ABOUT THE <hi>Five hundred Pounds</hi> FORFEITURE, Upon ſuch as Accepted EMPLOYMENTS UNDER THE Late King, without being Qualified, Modeſtly Enquired into. Humbly Recommended to the Conſideration of the Hono<g ref="char:EOLhyphen"/>rable Houſe of Commons.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>H. C.</hi> and Sold by <hi>R. Baldwine,</hi> near the <hi>Black Bull</hi> in the <hi>Old-Baily,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:44705:2"/>
+            <pb n="3" facs="tcp:44705:2"/>
+            <head>THE DISSENTERS CASE, &amp;c.</head>
+            <p>IT cannot but ſeem ſtrange to any one that ſhall take a view of this Nation, from the time of her Re<g ref="char:EOLhyphen"/>formation, to behold with how great a vehemen<g ref="char:EOLhyphen"/>cy the Two Parties of Church and Diſſenter have run upon each other, when the differences be<g ref="char:EOLhyphen"/>twixt them are ſo few and inconſiderable. What can ſhew a greater Malignity and Inveteracy of Diſ<g ref="char:EOLhyphen"/>poſition, than the Story of <hi>Cox</hi> and <hi>Knox</hi> in Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> time, who were but juſt eſcaped out of the Flames in <hi>England,</hi> and had ſcarce ſetled themſelves at <hi>Franckfort,</hi> when they began to ſtir up Differences about the ceremoni<g ref="char:EOLhyphen"/>ous part of Religion, which (to the ignominy of our Eng<g ref="char:EOLhyphen"/>liſh Nation) after ended in a malicious Impeachment of <hi>Knox,</hi> for ſome Words he had ſaid againſt the Emperor in a Sermon he had preached ſeveral years before in <hi>Bucking<g ref="char:EOLhyphen"/>hamſhire?</hi>
+            </p>
+            <p>I ſhall not here take upon me to decide who was in the greateſt fault, but any one that will take the pains to look the Story in <hi>Fuller</hi>'s Church Hiſtory, will eaſily diſ<g ref="char:EOLhyphen"/>cern where it ought to be placed. I could give ſeveral Inſtances, that the like malignity of Spirit was carried
+<pb n="4" facs="tcp:44705:3"/>on both ſides through Queen <hi>Elizabeths</hi> Reign, and ſo on to this time: But theſe things are ſo well known, that it would be tedious to repeat them. But in ſhort, the ſeveri<g ref="char:EOLhyphen"/>ties which were exerciſed by the Church of <hi>England,</hi> from the time of the firſt ſettlement, after the Reformation, till the breaking out of the late unhappy Civil Wars, were ſuch, that were Revenge allowable, the Presbyterians might eaſily be excuſed for all the Cruelties and Severities, which, whilſt they were uppermoſt, were exerciſed upon the Church men.</p>
+            <p>And again, the ſame Reaſon might excuſe the Pro<g ref="char:EOLhyphen"/>ceedings on the other ſide, ſince the Reſtauration of King <hi>Charles</hi> the Second; and at the ſame rate the like Severities might be carried on alternately, according to the preva<g ref="char:EOLhyphen"/>lency of the Party to all Eternity: But theſe things are ſo far unbecoming Chriſtians, that they are not to be endured amongſt Men; and had <hi>Lucretius,</hi> the Epicurean Philoſo<g ref="char:EOLhyphen"/>pher, heard of ſuch things as theſe, I do not doubt but he would have cried out with greater indignation, than he did at the Story of <hi>Agamemnon</hi>'s Daughter, <hi>Tantum Religio po<g ref="char:EOLhyphen"/>tuit ſuadere malorum:</hi> But now is the time in which, if ever, we may expect to be freed from theſe Miſeries: Now we have got a King endued with ſo many Godlike Virtues, that it is not to be doubted, but he will be as induſtrious in al<g ref="char:EOLhyphen"/>laying, as his Predeceſſors have been in fomenting theſe Differences, which have been ſo long and laſting a plague to this Nation. I know there are ſeveral hot Men yet left on both Parties, that are for carrying on the revenge; but (thank God) they are ſo thin ſtrewed, that I hope they will be able to do no hurt.</p>
+            <p>I muſt confeſs there is one thing now on foot, which ſeems to me to carry in it a more than ordinary heat; and that is, the late Vote in the Houſe of Commons, for levying the Five hundred pounds forfeiture upon ſuch as have exer<g ref="char:EOLhyphen"/>ciſed any Office in the late King <hi>James</hi>'s time, without
+<pb n="5" facs="tcp:44705:3"/>taking the Oath and Sacrament: And indeed, though the Act was principally deſigned againſt Papiſts, yet I my ſelf could be content, that thoſe Proteſtants that complied with them ſo far, as to run themſelves into the ſame offence, ſhould have ſome light ſort of puniſhment, for example to Poſterity: But we muſt have a care, leſt in puniſhing them, we puniſh our ſelves too, and the whole Nation: God Almighty indeed, in the Second Commandment hath ſaid, <hi>The iniquities of the fathers ſhall fall upon the children,</hi> but I know no place in Scripture, where he hath commiſſionated Mankind to puniſh one Man for anothers fault; and therefore when the Parliament cometh to conſider, how great an incon<g ref="char:EOLhyphen"/>veniency the impoſing of the Five hundred pounds Penalty will be, both to every one of themſelves in particular, and the whole Nation in general; I do not doubt but they will either pardon theſe Men quite, or find out ſome other as ef<g ref="char:EOLhyphen"/>fectual, though more convenient way of puniſhment: For to alledge that the Crime and Puniſhment are already ſtated by Act of Parliament, and therefore not to be altered, is a ridiculous ſort of language to be made uſe of to a Houſe of Commons, when they are proceeding by vertue of their legiſlative Power; as if an Act of Parliament now were not of ſufficient force to annul one made in King <hi>Charles</hi> the Second's time; or, as if it were not as eaſie to change or abrogate an old Law, as to make a new one.</p>
+            <p>Indeed, in one of His Majeſties Courts of <hi>Weſtminſter-hall</hi> this might be made uſe of as a good Argument; for there they are bound up by Rule, and tyed to follow the Me<g ref="char:EOLhyphen"/>thods preſcribed them by Parliament, and not left at large to follow the Dictates of their own Natural Reaſons and Conſciences: And yet in this caſe, if the whole Matter came fairly before them, and the party to be convict, made it appear by ſufficient evidence (I mean ſuch as would be convincing to a Jury) that he was a Proteſtant; and this was ſet forth by ſpecial Verdict, it would be a moot Point
+<pb n="6" facs="tcp:44705:4"/>whether he ought to incur the Penalties of the Statute of the 25th of <hi>Car.</hi> 2d, or no: For the true way of interpreting an Act of Parliament, is to look at the intent of the Makers, and the miſchief it is made to prevent, which is generally ſet forth in the Preamble; and the Preamble of the 25th of <hi>Car.</hi> 2d, runs-thus: <hi>For preventing dangers which may happen from Popiſh Recuſants, and quieting the minds of his Majeſties good Subjects, Be it inacted,</hi> &amp;c. Now it is plain from hence, that this Statute was never intended againſt any but Papiſts: For what could the keeping Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters out of Office, conduce to the prevention of Dangers from Popiſh Recuſants? And any one that is but mode<g ref="char:EOLhyphen"/>rately acquainted with the Hiſtory of the time, in which this Act was made, cannot but know, that to have made uſe of it againſt Proteſtant Diſſenters, would have been ſo far from quieting the Minds of his Majeſties good Subjects, that it had heen the ready way to have inflamed them: And I leave it to any one that pretends to the Law, to judge Whe<g ref="char:EOLhyphen"/>ther an Act of Parliament made for creating a puniſhment for a thing lawful before, be to be ſtretched further than the intent of the firſt Makers?</p>
+            <p>I might have driven this Nail a great deal further, and have ſhewed you the inconveniences, which have ſe<g ref="char:EOLhyphen"/>veral times already happened, by miſinterpreting the Laws intended againſt Roman Catholicks, to extend to Proteſtant Diſſenters: But I think all this beſide the preſent Queſti<g ref="char:EOLhyphen"/>on; for I muſt ſtill ſtick to my old Poſition, That the Houſe of Commons are not at all bound up, or reſtrained by any of our ancient Acts of Parliament, in any thing they do, as they are part of the Legiſlative Power. Theſe indeed are Rules which the Judges in <hi>Weſtminſter-hall</hi> are to be guided by; and indeed the Parliament Men themſelves, if we take them in their private Capacities: But as they are part of the Legiſlative Power, they are bound up to no Rules, but the Dictates of their own Natural Reaſon; and whatſoever
+<pb n="7" facs="tcp:44705:4"/>this tells them, is moſt for the intereſt of the Nation, to be done or not done, they are bound in conſcience to do, or not do, without any reſpect to any former Law, or Act of Par<g ref="char:EOLhyphen"/>liament to the contrary.</p>
+            <p>The only thing therefore that now remains to be done, is to examine Whether the Conſequences of impoſing theſe Penalties, will be ſo diſmal, as I have before ſurmiſed, which I do ſo little doubt of proving, that I only deſire the Members of the Houſe of Commons, to conſider through<g ref="char:EOLhyphen"/>ly what I ſhall here lay down.</p>
+            <p>I have only Acquaintance in two or three Corporations, but we may take our parallel from them, and by that judge of the reſt of <hi>England;</hi> there are ſome of them which have fifteen or ſixteen Perſons apiece in them, and thoſe the moſt ſubſtantial Men, and greateſt Traders in the whole Corporation, who are liable to the Five hundred pound Pe<g ref="char:EOLhyphen"/>nalties, by reaſon of Offices which they bore towards the latter end of King <hi>James</hi>'s time, without taking the Oaths; Theſe, taking one with another, have fifteen or ſixteen of the Handy-crafts Men of the Corporation apiece, that wholly depend upon them; theſe are the Men to whom they vent their Wares, and often upon truſt; ſo that if theſe break, they do not only loſe whatever was due to them, from the Man that breaks, but beſides are at great loſſes for want of a Chapman, before they can bring their Trade again into its ancient Channel, though perhaps at laſt ſome other Tradeſman cometh and ſupplies the place of him that is broke, and with much ado, the poor Workman at laſt recovers. But ſuppoſing this Diſtemper ſhould run generally throughout <hi>England</hi> at once, and inſtead of ſix<g ref="char:EOLhyphen"/>teen only, five or ſix break in every Corporation through<g ref="char:EOLhyphen"/>out <hi>England</hi> at one time; Whether would not this, inſtead of a loſs for a time, be the certain ruin of all the ſixteen poor Handy-crafts Men, which had their dependance upon each of them? For in this Caſe there would be no body
+<pb n="8" facs="tcp:44705:5"/>left to ſupply the place of him that breaks; it would cer<g ref="char:EOLhyphen"/>tainly caſt ſuch a general damp upon all manner of Trade, that it is mightily to be queſtioned Whether the Nation would ever be able to recover it; at leaſt it would unhinge our Trade for three or four years: And I only deſire any one to conſider how many thouſands of Families in <hi>England,</hi> in the mean while, would be undone by it? Whether this at laſt would not certainly come home to the Gentlemens own Doors? For though few of them be immediately con<g ref="char:EOLhyphen"/>cerned in Trade themſelves, yet it is upon this that they have their dependance: Handy-crafts Men take their Lands off their hands, and that is it which makes them let dearer near great Towns; and if theſe Men be ruined, Rents muſt of conſequence fall, not only near Corporations, but all o<g ref="char:EOLhyphen"/>ver <hi>England;</hi> for it is the Trading part of the Nation, that makes the greateſt conſumption of all our Commodities; they eat up our Beef and Mutton, they work up our Wool, they drink our Ale, conſume our Corn; and if they be pinched, all theſe Commodities muſt neceſſarily lie in Te<g ref="char:EOLhyphen"/>nants hands, and then how ſhall they be able to pay their Rents? But perhaps it may be thought unreaſonable to reckon ſixteen to a Corporation throughout <hi>England,</hi> that are lyable to the Penalties of the 25th of <hi>Charles</hi> the Second, or that the impoſing a Five hundred pound Penalty, muſt cauſe every Man of theſe to break. I muſt confeſs to reckon ſixteen to a Corporation, is more than the Caſe will bear; but taking one Corporation with another, it will be a modeſt reckoning to reckon that there are half the num<g ref="char:EOLhyphen"/>ber lyable to the Penalties in each Corporation; for it was King <hi>James</hi>'s buſineſs towards the latter end of his time to engage the Presbyterian party, as much as he could, in the ſame irregularities, which he was guilty of himſelf, that ſo by making them lyable to the laſh of the Law, he might make it their intereſt to ſupport him, leſt if he ſhould fall, they ſhould be called to an account: In purſuance to this
+<pb n="9" facs="tcp:44705:5"/>(though not with the effect he hoped for) he picks out all the leading Men of the Party, which muſt neceſſarily be the Tra<g ref="char:EOLhyphen"/>ders, which are generally the richeſt, and thoſe upon whom the reſt have their dependance; and upon theſe, he in a man<g ref="char:EOLhyphen"/>ner impoſes by force all manner of Offices in Corporations, with the Penalty of incurring his diſpleaſure, upon all ſuch as ſhould dare to take the Oaths required by Law.</p>
+            <p>Now any one that hath obſerved with how great Indu<g ref="char:EOLhyphen"/>ſtry this Project was carried on; how many People imploy<g ref="char:EOLhyphen"/>ed in it, and that neither coſt nor pains were ſpared in any thing that might conduce to the accompliſhment of it, can<g ref="char:EOLhyphen"/>not without betraying his own Judgment, compute fewer than eight to a Corporation: And if for every eight that are lyable to the Penalties, we only reckon that five will break, it is ſufficient to do my buſineſs.</p>
+            <p>Now to prove that we may reckon this, let us conſider, that the Trade of this Nation links Men together after ſuch a manner, that they depend wholly upon one another: We ſeldom ſee one Man break, but four or five break pre<g ref="char:EOLhyphen"/>ſently after him, at leaſt his Misfortune is a great weakning to all his Neighbours; and if this be the conſequence of one Man's misfortunes, we may eaſily gueſs what will be the conſequence of ſo many breaking at once, as it is plain they will do, if theſe Five hundred pound forfeitures be im<g ref="char:EOLhyphen"/>poſed upon them; for if we conſider what is generally the eſtimate of a Country Tradeſman's Stock, we ſhall find that Five hundred pounds will make a great hole in it.</p>
+            <p>Indeed, there are ſome few that are worth Four or five thouſand pounds apiece, but for one that is, there are ten that are not worth above Two thouſand, twenty that are not worth One thouſand, and thirty that are not worth a<g ref="char:EOLhyphen"/>bove Four or five hundred pounds apiece.</p>
+            <p>Now the firſt ſort are ſo few in number, that they are not worth our conſideration: But who can imagine that the Two thouſand pound Men will not tranſlate themſelves into
+<pb n="10" facs="tcp:44705:6" rendition="simple:additions"/>
+               <hi>Holland,</hi> or any other Trading Country, rather than loſe a fourth part of what they are worth? and if ſo, much more the third Sort that loſe half: And as for the fourth Sort, which are the moſt conſiderable, becauſe the moſt incurable, it is all one whether they run away or no; be<g ref="char:EOLhyphen"/>cauſe if they do not, the Forfeitures will certainly break their backs, and make them Beggars at home; ſo that if this be granted, all that I have laid down before, will not only naturally follow, but we alſo loſe another great Branch of our deſign, that is, the vaſt ſum of Mony, that this P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſecution (for it will be the greateſt, if it goeth on, that e<g ref="char:EOLhyphen"/>ver fell upon the Proteſtants in <hi>England,</hi> ſince Queen <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> days) is to bring into the Treaſury; for it is plain from the Premiſes, that the generality of thoſe that are concern<g ref="char:EOLhyphen"/>ed, will ſo order their Matters, that though His Majeſty may perhaps have the keeping of ſome of their Carcaſes, he is likely to have very little to do with their Eſtates.</p>
+            <p>It will be needleſs to add, that theſe very Men, that are now under the cenſure of the Houſe of Commons, have both by their Contributions to, and readineſs to aſſiſt thoſe that were in Arms for His Majeſty, when Prince of <hi>Orange,</hi> and by their demeanor, ſince he came to the Crown (which I wiſh I could as truly ſay of ſome others) ſhew'd them<g ref="char:EOLhyphen"/>ſelves as much for His Majeſties Intereſt, as any.</p>
+            <p>It will alſo be needleſs to add, how much King <hi>James</hi> was miſtaken, when he turned out theſe Mens Predeceſ<g ref="char:EOLhyphen"/>ſors, who made it apparent by the Civility and good Lan<g ref="char:EOLhyphen"/>guage they treated thoſe Men with, that were in Arms for the delivery of the Nation, what was to have been expected from them, had they been in Authority.</p>
+            <p>This I ſay is needleſs, for ſince it is apparent, that the impoſing the Five hundred pound Forfeitures upon all the unqualified People, that were in Office in the latter end of King <hi>James</hi>'s time, will be the ruin of ſo many thouſands of poor Tradeſmen in this Kingdom; and by the con<g ref="char:EOLhyphen"/>ſequence
+<pb n="11" facs="tcp:44705:6" rendition="simple:additions"/>a general impoveriſhment to the Nation; ſince every Body, not excepting the Members of Parliament themſelves, will be loſers, and neither the King, nor any body elſe gainer by it; ſince it is as eaſie and lawful, and a great deal more commendable to pardon the Offence, than impoſe the Penaltie; eſpecially ſince it was never the intent of the Law-makers themſelves, that it ſhould fall upon Proteſtants; no doubt, but the Parliament will take care, either to exempt all Proteſtants from the pu<g ref="char:EOLhyphen"/>niſhment, or at leaſt to change it to ſomething elſe, that will produce none of theſe diſmal effects.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
